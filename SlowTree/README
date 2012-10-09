@@ -1,3 +1,0 @@
-An example of a very very slow ExtJS (4.1.2) treegrid.
-
-This is created for Sencha as part of a support ticket.  To use, edit app.js and point to a valid extjs.js and extjs.css.
